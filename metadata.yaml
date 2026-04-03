@@ -1,5 +1,5 @@
 homepage: "https://www.webgains.com"
 documentation: "https://github.com/newnorthdigital/webgains-web-tag/blob/main/README.md"
 versions:
-  - sha: REPLACE_WITH_COMMIT_SHA
+  - sha: 92a3cb21646b2eb9eb4ef7db87b1741ebc1c5a3f
     changeNotes: "Initial release - Webgains click tracking and conversion tracking."

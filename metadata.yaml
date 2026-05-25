@@ -1,5 +1,7 @@
 homepage: "https://www.webgains.com"
 documentation: "https://github.com/newnorthdigital/webgains-web-tag/blob/main/README.md"
 versions:
+  - sha: b077d7f5f76ec8b7b2bb27bce148755509fa2516
+    changeNotes: "Embed vendor logo as 96x96 PNG thumbnail; add canonical BOM."
   - sha: 92a3cb21646b2eb9eb4ef7db87b1741ebc1c5a3f
     changeNotes: "Initial release - Webgains click tracking and conversion tracking."
